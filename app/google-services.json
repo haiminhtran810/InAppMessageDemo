@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1032680237836",
+    "firebase_url": "https://inappmessagedemo-9aebf.firebaseio.com",
+    "project_id": "inappmessagedemo-9aebf",
+    "storage_bucket": "inappmessagedemo-9aebf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032680237836:android:65a5433a2324e0a553f729",
+        "android_client_info": {
+          "package_name": "com.friend.demoinapmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032680237836-d1e5thkknbb3v2s9487vldgd1fls5h2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.friend.demoinapmessage",
+            "certificate_hash": "3e3bdd3bc822c87f318a6317646b2ed68550b39d"
+          }
+        },
+        {
+          "client_id": "1032680237836-r4mmq0l4b34t4pqccsg7qolsvqmctc6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZasRqWsnO16rtmv4kcoRGHrvMSHdYwTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032680237836-r4mmq0l4b34t4pqccsg7qolsvqmctc6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
